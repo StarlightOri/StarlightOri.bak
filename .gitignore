@@ -1,0 +1,11 @@
+# 构建文件
+build/
+obj/
+bin/
+
+# NuGet文件
+packages/
+
+# VS文件
+.vs/
+
